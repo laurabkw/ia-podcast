@@ -14,7 +14,9 @@ Propts Utilizados:
     
       REGRAS
       > O texto deve ter no máximo 15 linhas
+      
       > Apresente 3 sites que podem ser usados para consultar mais informaçoes
+      
       > Use linguagem simples
       
   - Substitua os trechos com código por texto
